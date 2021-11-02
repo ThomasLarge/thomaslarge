@@ -17,4 +17,3 @@
                                                                                                                                          
 ```                                                
 - 🔭 I’m currently working on creating a better healthcare experience for patients 
-- 🌱 I’m currently learning nest.js and TypeScript
